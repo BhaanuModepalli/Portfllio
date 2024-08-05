@@ -72,7 +72,7 @@ nav ul li a:hover{
     position: absolute;
     left: 59%;
     bottom: 0;
-    transform: translate(-50%);
+    transform: translate(-10%);
     transition: left 2s;
 }
 .right-img:hover .img{
