@@ -72,11 +72,11 @@ nav ul li a:hover{
     position: absolute;
     left: 59%;
     bottom: 0;
-    transform: translate(-150px);
-    transition: left 1s;
+    transform: translate(-50%);
+    transition: l 1s;
 }
 .right-img:hover .img{
-    left: 5px;
+    bottom: 5px;
 }
 .social{
     margin-left: 8%; ;
